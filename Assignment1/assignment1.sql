@@ -63,7 +63,7 @@ VALUES
     ),
     (
         1002,
-        'The Silent Patient ',
+        'The Silent Patient',
         'Alex Michaelides',
         2021
     ),
