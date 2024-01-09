@@ -294,7 +294,7 @@ SELECT
 FROM
     `JacDBMid`.`Employees`
 WHERE
-    `Employees`.`birthdayyear` < '1994-01-01';
+    `Employees`.`birthdayyear` < 1994;
 
 /*  Q20  */
 SELECT
